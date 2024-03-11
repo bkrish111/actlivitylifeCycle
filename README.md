@@ -5,23 +5,33 @@ Conversely, when a Dialog Activity is opened, and we navigate back to the preced
 
 Main Activity:
 
-![WhatsApp Image 2024-03-10 at 21 48 08_704e8b0b](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/450aefda-95c8-4fcc-aaed-1dd682729744)
+![Screenshot 2024-03-10 230255](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/4c322ea5-baed-46c4-8fd2-f84e7b7d09bd)
+
 
 Activity B: 
 
-![WhatsApp Image 2024-03-10 at 21 48 47_d6588d03](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/2090df71-f165-4caf-92b7-892ec017ed15)
+![Screenshot 2024-03-10 230312](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/f6f13817-b43c-4868-85cd-6f42f88e9410)
+
 
 Thread Counter increased by 5.
 
-![WhatsApp Image 2024-03-10 at 21 49 10_48bf5367](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/66edac95-c397-4064-be9c-d936faf4c1d4)
+![Screenshot 2024-03-10 230328](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/ad7b0178-6a2d-4d36-9167-00f812220f2a)
+
 
 Activity C:
 
-![WhatsApp Image 2024-03-10 at 21 49 31_5ce8a481](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/3e91595f-1c08-41e0-83d4-9a71a1a29b8e)
+![Screenshot 2024-03-10 230341](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/54c1fb5a-2de4-43f7-a7df-0e8bb9117753)
+
+
+Thread Counter increased by 10.
+
+![Screenshot 2024-03-10 230356](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/242b155c-0947-4b3d-b2d9-fa798cb8d644)
+
 
 Dialog popup:
 
-![WhatsApp Image 2024-03-10 at 21 51 23_da992f72](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/e91cfff7-4cfb-44d9-9bf5-0adec10e40f2)
+![Screenshot 2024-03-10 230411](https://github.com/bkrish111/actlivitylifeCycle/assets/147780244/15b6f4f5-cdb9-4d45-b734-2004e63d056a)
+
 
 
 
