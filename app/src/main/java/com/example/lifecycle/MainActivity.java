@@ -9,6 +9,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
+import androidx.appcompat.app.AlertDialog;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -42,10 +43,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void openDialog(View view) {
-        Dialog dialog = new Dialog(context);
-        dialog.setContentView(R.layout.activity_dialog);
-        dialog.setTitle("Dialog is opened");
-        dialog.show();
+        new AlertDialog.Builder(this)
+                .setTitle(" Dialog")
+                .setMessage("Text Dialog")
+                .setPositiveButton(android.R.string.yes, null)
+                .show();
     }
 
     @Override
